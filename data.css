@@ -1,0 +1,19 @@
+body{
+    background-color: cyan;
+}
+
+.kotak{
+    background-color: blue;
+    color: darkblue;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 15px;
+}
+
+table{
+    width: 1000px;
+    height: 200px;
+    background-color: deepskyblue;
+    color: darkblue;
+}
